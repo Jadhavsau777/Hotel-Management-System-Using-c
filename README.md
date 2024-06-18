@@ -1,4 +1,4 @@
-<h1 style="background-color:F5E7B2">Hotel Management System Using C(Language)</h1>
+<h1 style="background-color:#F5E7B2">Hotel Management System Using C(Language)</h1>
 
 <h6>1. Select Option 1 To Check In.</h6>
 <h6>2. Then Enter Your Name, Phone Number, And Date You are Checking in on.</h6>
