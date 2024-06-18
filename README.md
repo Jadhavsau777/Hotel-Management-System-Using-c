@@ -5,4 +5,4 @@
 <h6>3. View The Customers Who Arrived By chicking On 3 Option.</h6>
 <br/>
 <h5>Here is The Output &#8595;</h5>
-<img src="Screenshot 2024-06-18 190553.png" placeholder="Img">
+<img src="img/Screenshot 2024-06-18 190553.png" placeholder="Img">
